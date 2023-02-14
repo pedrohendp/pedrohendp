@@ -10,6 +10,7 @@
     <img align="center" alt="PedroArruda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="PedroArruda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="PedroArruda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align='center' alt="PedroArruda-py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="right" alt="PedroArruda-pic" height="150" style="border-radius:50px;" src="https://pngimg.com/uploads/darth_vader/darth_vader_PNG29.png?width=676&height=676">
   </div><br>
 
