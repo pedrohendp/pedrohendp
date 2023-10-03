@@ -1,4 +1,4 @@
-### Eai, Sou o Pedro Arruda!!🥷
+### Pedro Arruda!!🥷
 
 <div align="center">
   <a href="https://github.com/pedrohendp">
