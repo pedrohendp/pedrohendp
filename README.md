@@ -4,6 +4,7 @@
   <a href="https://github.com/pedrohendp">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrohendp&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=0000FF&icon_color=0000FF"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohendp&layout=compact&langs_count=7&theme=dark&border_color=0000FF"/>
+  <img height="150em" src="ttps://github-readme-stats.vercel.app/api/wakatime?username=pedrohendp"/>
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="PedroArruda-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
