@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/pedrohendp/pedrohendp/blob/main/pedroArruda_img.png?raw=true" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/pedrohendp/pedrohendp/main/pedroArruda.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> I'm 🧑‍🚀 a technology enthusiast solving big challenges. <br><br> As a passionate C# developer, I focus on creating scalable applications with cutting-edge technologies. Currently, my expertise lies in backend development as a mid-level full stack developer.</p>&nbsp;
@@ -58,12 +58,17 @@
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/pedrohendp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:pedrohendp@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedrohendp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pedrohendp" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:pedrohendp@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedrohendp/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-  
+ &nbsp;&nbsp;  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=188600&height=120&section=footer"/>
